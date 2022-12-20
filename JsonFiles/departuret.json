@@ -1,0 +1,2 @@
+[{"id":1, "departure":"Islamabad", "carrier":"PIA", "flight":"PK126", "gate":"C2", "terminal":3, "time":"04:30:00", "status":"on time"},
+ {"id":2, "departure":"Karachi", "carrier":"Sarene Air", "flight":"SR70", "gate":"B3", "terminal":2, "time":"07:00:00", "status":"on time"}]

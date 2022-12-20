@@ -1,0 +1,2 @@
+[{"id":1, "departure":"Mumbai", "carrier":"Spice Jet", "flight":"SJ145", "gate":"A1", "terminal":1, "time":"04:30:00", "status":"on time"},
+ {"id":2, "departure":"Delhi", "carrier":"Air INDIGO", "flight":"AI116", "gate":"B2", "terminal":2, "time":"09:00:00", "status":"Delayed"}]

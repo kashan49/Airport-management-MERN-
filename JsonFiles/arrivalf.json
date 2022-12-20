@@ -1,0 +1,3 @@
+[{"id":1, "arrival":"Adelaide", "carrier":"QatarAirways", "flight":"QA134", "gate":"C1", "terminal":3, "time":"02:13:00", "status":"on time"},
+ {"id":2, "arrival":"Perth", "carrier":"Blue Air", "flight":"BA41", "gate":"B3", "terminal":2, "time":"04:30:00", "status":"on time"},
+ {"id":3, "arrival":"Melbourne", "carrier":"Melindo", "flight":"ML071", "gate":"A2", "terminal":2, "time":"08:00:00", "status":"Delayed"}]
